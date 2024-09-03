@@ -1,13 +1,13 @@
 # financas
 Sistema de gerenciamento de finanças individuais.
 
-Oi. Há um bom tempo eu procuro um aplicativo/website de gerenciamento de finanças do jeitinho que eu goste: com todas as funções e análises que eu gostaria. Por isso decidi fazer o meu próprio!
+Oi. Há um bom tempo eu procuro um aplicativo/website de gerenciamento de finanças do jeitinho que eu goste: com todas as funções e análises que eu gostaria. Não achei. Por isso decidi fazer o meu próprio!
 
 INSPIRAÇÃO
-Sempre fui facinado pela controle financeira. Tive a oportunidade de servir voluntariamente como secretário da igreja a qual frequento. Esse sistema que quero desenvolver é inspirado no sistema financeiro (LCRFFE) de A Igreja de Jesus Cristo dos Santos dos Últimos Dias.
+Sempre fui fascinado pelo controle financeiro. Tive a oportunidade de servir voluntariamente como secretário da igreja a qual frequento. Esse sistema que quero desenvolver é inspirado no sistema financeiro (LCRFFE) de A Igreja de Jesus Cristo dos Santos dos Últimos Dias.
 
 PROBLEMATIZAÇÃO
-Uma vez por semana eu faço uma análise das minhas finanças. Basicamente, faço a auditoria e planejamento das finanças. Isso inclui, mas não se limita a:
+Uma vez por semana eu faço uma análise das minhas finanças. Basicamente, faço a auditoria e planejamento delas. Isso inclui, mas não se limita a:
 - cadastrar todas as entradas e saídas de dinheiro da semana;
 - registrar documentos comprobatórios dessas movimentações;
 - registrar compromissos financeiros.
