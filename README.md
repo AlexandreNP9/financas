@@ -21,3 +21,29 @@ HISTÓRIAS DE USUÁRIO:
 - Para os gastos que não possui NFCe, também quero relacioná-los à uma categoria.
 - Gostaria de um relatório de gastos por categoria.
 - Quero poder cadastrar movimentações a qualquer momento. No entanto, quero um lembrete customizado para minhas revisões.
+
+ANOTAÇÕES
+Ter um navbar principal com:
+- Início: mostra as pendências abertas
+- Dashboard: graficos
+- Entradas
+- Saídas
+- Compromissos financeiros
+- Orçamento
+- Relatórios
+
+INÍCIO
+
+DASHBOARD
+
+ENTRADAS
+- Cadastrar entrada: referência, descrição, valor, categoria, comprovante.
+- Considerar a possibilidade de dividir uma entrada em várias categorias (no caso de auxílios no salário, por exemplo)
+- Considerar a possibilidade de adicionar uma saída a uma entrada (no caso de descontos no salário, por exemplo)
+- Resumo de entradas: mostrar relatório de entradas. Se uma entrada tiver uma saída relacionada à ela, mostrar também em vermelho. Considerar cálculo de categorias brutas e líquidas.
+
+SAÍDAS
+- Cadastrar saída: referência, descrição, valor, categoria, comprovante.
+- Categorizar produtos: produto, descrição, valor unitário, quantidade, valor total, categoria.
+- Resumo de saídas
+- Considerar a possibilidade de descontos???
