@@ -1,5 +1,6 @@
 # financas
 Sistema de gerenciamento de finanças individuais.
+Diferencial: categorização de item na movimentação.
 
 Oi. Há um bom tempo eu procuro um aplicativo/website de gerenciamento de finanças do jeitinho que eu goste: com todas as funções e análises que eu gostaria. Não achei. Por isso decidi fazer o meu próprio!
 
@@ -28,6 +29,7 @@ Ter um navbar principal com:
 - Dashboard: graficos
 - Entradas
 - Saídas
+- Beneficiários
 - Compromissos financeiros
 - Orçamento
 - Relatórios
@@ -37,7 +39,7 @@ INÍCIO
 DASHBOARD
 
 ENTRADAS
-- Cadastrar entrada: referência, descrição, valor, categoria, comprovante.
+- Cadastrar entrada: número de referência, descrição, valor, categoria, comprovante.
 - Considerar a possibilidade de dividir uma entrada em várias categorias (no caso de auxílios no salário, por exemplo)
 - Considerar a possibilidade de adicionar uma saída a uma entrada (no caso de descontos no salário, por exemplo)
 - Resumo de entradas: mostrar relatório de entradas. Se uma entrada tiver uma saída relacionada à ela, mostrar também em vermelho. Considerar cálculo de categorias brutas e líquidas.
